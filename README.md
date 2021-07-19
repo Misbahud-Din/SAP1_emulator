@@ -32,11 +32,11 @@ SAP 1 (Simple As Possible)  is a very basic model of microprocessor. It has only
 
 
 ## Architecture
-![SAP Block Diagram]("https://i.imgur.com/4YeklTN.png")
+![SAP Block Diagram](https://i.imgur.com/4YeklTN.png 'SAP Block Diagram')
 
 
 ## Usage
-For now the RAM is hardcoded in SAP1.cpp in form of vectors. Those instructions can be changed and then compiled to get desired ouput. 
+For now the RAM is hardcoded in SAP1.cpp in form of vectors. Those instructions can be changed and then the solution can be built in Visual Studio to get executable binary. 
 
 ```cpp
  vector<byte> inst;
